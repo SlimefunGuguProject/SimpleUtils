@@ -12,17 +12,7 @@
 
 ## 下载
 
-点击这里下载 SimpleUtils: [下载 SimpleUtils](https://builds.guizhanss.net/ybw0014/SimpleUtils-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/SimpleUtils-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/SimpleUtils-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/SimpleUtils-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/SimpleUtils-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 SimpleUtils](https://resources.guizhanss.com/plugin/SimpleUtils)
 
 ## 需求
 
